@@ -26,4 +26,7 @@ This is the xml file containing the Tubesheet data:
 XAML  
 C#
 
+## Developer
+[Syed Muhammad Raza Rizvi](https://github.com/SMRazaRizvi96)  
+smrazarizvi96@gmail.com
 
