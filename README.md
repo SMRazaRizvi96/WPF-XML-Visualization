@@ -9,16 +9,16 @@ This is the xml file containing the Tubesheet data:
         [Tubesheet.xml](https://github.com/SMRazaRizvi96/Walker-INETEC/blob/main/bin/Debug/net5.0-windows/Tubesheet.txt)
 
 ## Software Specifications
-    Visual Studio 2019
-    Windows Presentation Foundation
-    .NET 5.0
+Visual Studio 2019  
+Windows Presentation Foundation  
+.NET 5.0
   
 ## Programming Languages
-    XAML
-    C#
+XAML  
+C#
 
 ## How to Run
-Clone the repositiory
+Clone the repositiory  
 Run the solution file from Visual Studio: INETEC-Task.sln
 
 ## Interaction
