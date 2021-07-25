@@ -11,7 +11,7 @@ This is the xml file containing the Tubesheet data:
 ## Software Specifications
 [Visual Studio 2019](https://visualstudio.microsoft.com/vs/)  
 [Windows Presentation Foundation ](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0)  
-.NET 5.0
+.NET 5.0 Framework
   
 ## Programming Languages
 XAML  
