@@ -24,3 +24,6 @@ Run the solution file (INETEC-Task.sln) from Visual Studio.
 ## Interaction
 After running the solution, you will see the following GUI in which you can visualuze the different tubes in a Horizontal Grid.  
 You can also hover the cursor to find the Row and Column of a specific Tube.
+
+![Tubesheet-Video](https://user-images.githubusercontent.com/74411560/126913447-0a38808d-e5e4-4ac7-9e69-1db71679e76b.gif)
+
