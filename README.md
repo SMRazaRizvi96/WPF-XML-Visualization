@@ -9,8 +9,8 @@ This is the xml file containing the Tubesheet data:
         [Tubesheet.xml](https://github.com/SMRazaRizvi96/Walker-INETEC/blob/main/bin/Debug/net5.0-windows/Tubesheet.txt)
 
 ## Software Specifications
-Visual Studio 2019  
-Windows Presentation Foundation  
+[Visual Studio 2019](https://visualstudio.microsoft.com/vs/)  
+[Windows Presentation Foundation ](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0)  
 .NET 5.0
   
 ## Programming Languages
