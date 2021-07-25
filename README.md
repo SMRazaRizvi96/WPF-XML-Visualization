@@ -19,7 +19,8 @@ C#
 
 ## How to Run
 Clone the repositiory  
-Run the solution file from Visual Studio: INETEC-Task.sln
+Run the solution file (INETEC-Task.sln) from Visual Studio.
 
 ## Interaction
-Run th
+After running the solution, you will see the following GUI in which you can visualuze the different tubes in a Horizontal Grid.  
+You can also hover the cursor to find the Row and Column of a specific Tube.
