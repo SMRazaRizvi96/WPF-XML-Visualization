@@ -5,8 +5,8 @@ A tubesheet is a collection of tubes organized in a square pattern and forming a
 
 
 ## XML File
-This is the xml file containing the Tubesheet data.
-[Tubesheet.xml](https://github.com/SMRazaRizvi96/Walker-INETEC/blob/main/bin/Debug/net5.0-windows/Tubesheet.txt)
+This is the xml file containing the Tubesheet data:
+        [Tubesheet.xml](https://github.com/SMRazaRizvi96/Walker-INETEC/blob/main/bin/Debug/net5.0-windows/Tubesheet.txt)
 
 ## Software Specifications
     Visual Studio 2019
