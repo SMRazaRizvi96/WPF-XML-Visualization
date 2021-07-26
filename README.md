@@ -5,6 +5,7 @@ A tubesheet is a collection of tubes organized in a square pattern and forming a
 
 ## How to Run
 Clone the repositiory  
+Delete the README file from the folder otherwise the project will not run as expected  
 Run the solution file (INETEC-Task.sln) from Visual Studio.
 
 ## Interaction
