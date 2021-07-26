@@ -15,7 +15,7 @@ You can also hover the cursor to find the Row and Column of a specific Tube.
 
 ## XML File
 This is the xml file containing the Tubesheet data:
-        [Tubesheet.xml](https://github.com/SMRazaRizvi96/Walker-INETEC/blob/main/bin/Debug/net5.0-windows/Tubesheet.txt)
+        [Tubesheet.txt](https://github.com/SMRazaRizvi96/Walker-INETEC/blob/main/bin/Debug/net5.0-windows/Tubesheet.txt)
 
 ## Software Specifications
 [Visual Studio 2019](https://visualstudio.microsoft.com/vs/)  
