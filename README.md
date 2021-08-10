@@ -1,5 +1,5 @@
-# Walker-INETEC
-This repository contains a Visual Studio project for the purpose of visualizing a Tubesheet.
+# WPF-XML-Visualization
+This repository contains a Visual Studio project for the purpose of visualizing a Tubesheet data provided in XML format.
 
 A tubesheet is a collection of tubes organized in a square pattern and forming a horizontal wall. Each tube has a certain status, and belongs to a certain Row and Column of the Horizontal Wall.
 
